@@ -13,7 +13,7 @@ This is a Image Classification problem which can be solved using Artificial Neur
 
 ## Installation & Setup
 
-### Codes and Resources Used
+### Resources Used
 
 - Editor/IDE: iPython Notebook on Google Colab
 - Environment/Backend: TensorFlow Backend
